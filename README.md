@@ -1,6 +1,5 @@
 # Machine Learning II Mini Project
-
-This project demonstrates different machine learning paradigms using Python, including supervised, unsupervised, reinforcement learning, and neural networks.
+This project was developed to explore and compare different machine learning approaches using Python. It includes practical implementations of supervised learning, unsupervised learning, reinforcement learning, and neural networks on simple datasets.
 
 Implemented algorithms:
 - SVM
