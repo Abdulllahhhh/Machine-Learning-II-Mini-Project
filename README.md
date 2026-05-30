@@ -10,8 +10,6 @@ Implemented algorithms:
 - K-means
 - Neural Networks
 
----
-
 ## Results
 
 | Algorithm | Result |
@@ -21,8 +19,6 @@ Implemented algorithms:
 | Neural Network Accuracy | 93.3% |
 | K-means Clusters | 3 Clusters |
 | Q-learning Reward | Improved after 200 iterations |
-
----
 
 ## SVM Example Code
 
@@ -51,15 +47,11 @@ pred = model.predict(X_test)
 print("Accuracy:", accuracy_score(y_test, pred))
 ```
 
----
-
 ## Tools
 
 - Python
 - NumPy
 - scikit-learn
-
----
 
 ## Full Report
 
