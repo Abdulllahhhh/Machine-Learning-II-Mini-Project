@@ -8,8 +8,6 @@ Implemented algorithms:
 - K-means
 - Neural Networks
 
----
-
 ## Results
 
 - SVM Accuracy: **95%**
@@ -17,8 +15,6 @@ Implemented algorithms:
 - Neural Network Accuracy: **93%**
 - K-means created **3 clusters**
 - Q-learning improved decision making after training
-
----
 
 ## Tools
 
